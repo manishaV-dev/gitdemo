@@ -1,0 +1,15 @@
+This is my first file in git.
+this the 2nd line to check git status.
+this is 3rd line fr file status lifecycle.
+
+today is 4 aug i have changed some data.
+
+git diff for showing changes between commits/staging area & working directory.
+
+skipping the staging area.
+
+viewing and changing commits in Git.
+
+unstaging and unmodifying files.
+
+data after del.
